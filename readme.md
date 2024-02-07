@@ -1,3 +1,3 @@
-Lizerwekz Lopez Medina
-BSIT 1-2
-Web Dev
+*Lizerwekz Lopez Medina*
+_BSIT 1-2_
+~Web Dev~
